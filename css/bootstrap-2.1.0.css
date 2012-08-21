@@ -2058,7 +2058,8 @@ table .span24 {
 .dropdown-menu > li > a:hover > [class*=" icon-"],
 .dropdown-menu > .active > a > [class^="icon-"],
 .dropdown-menu > .active > a > [class*=" icon-"] {
-  background-image: url("../img/glyphicons-halflings-white.png");
+  /*background-image: url("../img/glyphicons-halflings-white.png");*/
+  background-image: url("../img/glyphicons-white.png");
 }
 
 /*glyphicons 32px x 32px*/
