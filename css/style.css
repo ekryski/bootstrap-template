@@ -7,9 +7,13 @@
 }
 
 .the-icons li {
-  float: left;
-  width: 25%;
-  line-height: 25px;
+  cursor: pointer;
+  line-height: 42px;
+  height: 42px;
+  padding-left: 12px;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  border-radius: 12px;
 }
 
 section > ul li {
